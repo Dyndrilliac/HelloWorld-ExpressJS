@@ -1,0 +1,19 @@
+{
+  "name": "HelloWorld-ExpressJS",
+  "version": "1.0.0",
+  "description": "A simple Hello World! program in Node.js using the ExpressJS framework.",
+  "main": "hello_world.js",
+  "repository": "https://github.com/Dyndrilliac/HelloWorld-ExpressJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dyndrilliac",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0",
+    "eslint-config-google": "^0.13.0"
+  }
+}
